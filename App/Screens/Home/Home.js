@@ -11,7 +11,7 @@ class Home extends Component {
   render() {
     return (
       <View style={homeStyles.rootView}>
-        <Text>TEsting from New Home</Text>
+        <Text>TEsting from New Home edited from Github</Text>
         <Button
           title={"Details"}
           onPress={() => {
